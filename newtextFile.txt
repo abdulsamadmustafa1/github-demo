@@ -1,0 +1,6 @@
+Creating a new text file form my local so I can upload it to Github.
+I will commit this to github
+
+Finally I learned Git/Github
+
+Thanks to Londhe
